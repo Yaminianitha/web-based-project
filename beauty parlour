@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Beauty Parlour</title>
+</head>
+<body>
+<h1>Welcome to Beauty Parlour</h1>
+<p>We offer haircuts, facials, makeup, and spa services.</p>
+<h2>Services</h2>
+<ul>
+<li>Haircut</li>
+<li>Facial</li>
+<li>Makeup</li>
+<li>Spa</li>
+</ul>
+<h2>Contact</h2>
+<p>Phone: 7032080343</p>
+<p>Email: yamini@gmail.com.com</p>
+</body>
+</html>
